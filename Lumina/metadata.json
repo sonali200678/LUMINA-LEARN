@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Learn LMS",
+  "description": "A high-performance, AI-powered Learning Management System featuring intelligent dashboards, blended assessments, and personalized learning pathways.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

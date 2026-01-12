@@ -1,0 +1,47 @@
+[
+    {
+        "id": "user-1",
+        "name": "MANASA",
+        "email": "Manasa@gmail.com",
+        "password": "MANASA",
+        "role": "student",
+        "branch": "General Studies",
+        "className": "Year 1"
+    },
+    {
+        "id": "user-2",
+        "name": "MANASA",
+        "email": "manasa@gmail.com",
+        "password": "MANASA",
+        "role": "student",
+        "branch": "General Studies",
+        "className": "Year 1"
+    },
+    {
+        "id": "user-3",
+        "name": "Sonali",
+        "email": "a@gmail.com",
+        "password": "MANASA",
+        "role": "instructor",
+        "branch": "",
+        "className": ""
+    },
+    {
+        "id": "user-4",
+        "name": "Sangkari",
+        "email": "SAN@gmail.com",
+        "password": "1234",
+        "role": "student",
+        "branch": "AIML",
+        "className": "3"
+    },
+    {
+        "id": "user-5",
+        "name": "Manasa",
+        "email": "s@gmail.com",
+        "password": "MANASA",
+        "role": "instructor",
+        "branch": "AIML",
+        "className": "B"
+    }
+]
